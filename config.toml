@@ -1,0 +1,4 @@
+baseURL = "http://manolorodriguez.es"
+languageCode = "es-es"
+title = "Manolo Rodriguez - Fullstack developer"
+theme = "vncnt-hugo"
